@@ -1,5 +1,5 @@
 
-#Introduction
+# Introduction
 This is a repository that python scripts implementing several machine learning and/or statistical analysis models. 
 
 Each folder within the root folder represents one machine learning model. 
